@@ -24,7 +24,7 @@
   <div class="row">
     <div class="col col-sm-12 col-lg-12 col-md-12 table-responsive">
 
-      <table class="table">
+      <table class="table table-bordered text-center table-striped">
         <thead class="thead-dark">
           <tr>
             <th scope="col">ID</th>

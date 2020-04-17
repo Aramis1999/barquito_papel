@@ -35,7 +35,7 @@ try{
         }
         }  
       }else {
-        Page::showMessage(3, "Seleccione usuario", "index.php");
+        Page::showMessage(3, "Seleccione un cliente", "index.php");
       }
 
 

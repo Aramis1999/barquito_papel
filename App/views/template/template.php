@@ -20,6 +20,7 @@ class Page extends Component{
           <meta name='viewport' content='width=device-width, initial-scale=1.0'>
       
           <title>$title</title>
+          <link rel='shortcut icon' href='../../web/img/iconos/boat.svg' />
       </head>
       <body>   
       <nav class='navbar navbar-expand-md navbar-dark bg-primary'>
@@ -32,9 +33,10 @@ class Page extends Component{
             <div class='navbar-nav'>
               <a class='nav-item nav-link active' href='#'>Dashboard</a>
               <a class='nav-item nav-link active' href='#'>Ventas</a>
-              <a class='nav-item nav-link active' href='../../public/tipo_producto'>Productos</a>
+              <a class='nav-item nav-link active' href='../../public/producto'>Productos</a>
+              <a class='nav-item nav-link active' href='../../public/tipo_producto'>Tipos de producto</a>
               <a class='nav-item nav-link active' href='../../public/cliente'>Clientes</a>
-              <a class='nav-item nav-link active' href='#'>Proveedores</a>
+              <a class='nav-item nav-link active' href='../../public/proveedor'>Proveedores</a>
               <a class='nav-item nav-link active' href='../../public/usuario'>Usuarios</a>
             </div>
           </div>
